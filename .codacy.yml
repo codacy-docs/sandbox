@@ -1,0 +1,5 @@
+---
+engines:
+  duplication:
+    minTokenMatch: 10
+
