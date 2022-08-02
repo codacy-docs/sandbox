@@ -1,0 +1,69 @@
+{
+    "total": 1,
+    "fileReports": [
+        {
+            "filename": "sampleJavaProject/src/sample/java/project/SampleJavaProject.java",
+            "total": 12,
+            "coverage": {
+                "21": "1",
+                "27": "1",
+                "31": "1",
+                "35": "1",
+                "43": "1",
+                "45": "1",
+                "46": "1",
+                "47": "1",
+                "48": "0",
+                "51": "0",
+                "52": "0",
+                "53": "0"
+            }
+        }
+    ]
+}
+
+
+{
+    "total": 1,
+    "fileReports": [
+        {
+            "filename": "sampleJavaProject/src/sample/java/project/package-info.java",
+            "total": 1,
+            "coverage": {
+                "4": "2"
+            }
+        }
+    ]
+}
+
+
+{
+    "total": 2,
+    "fileReports": [
+        {
+            "filename": "sampleJavaProject/src/sample/java/project/SampleJavaProject.java",
+            "total": 12,
+            "coverage": {
+                "21": "1",
+                "27": "1",
+                "31": "1",
+                "35": "1",
+                "43": "1",
+                "45": "1",
+                "46": "1",
+                "47": "1",
+                "48": "0",
+                "51": "0",
+                "52": "0",
+                "53": "0"
+            }
+        },
+        {
+            "filename": "sampleJavaProject/src/sample/java/project/package-info.java",
+            "total": 1,
+            "coverage": {
+                "4": "2"
+            }
+        }
+    ]
+}
