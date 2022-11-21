@@ -1,4 +1,4 @@
 <?php
 
-echo 'This is a test'
-echo 'This is another test'
+echo 'This is a test';
+echo 'This is another test';
