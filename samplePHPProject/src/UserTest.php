@@ -15,10 +15,10 @@ class UserTest extends TestCase
         return 1;
     }
 
-//    public function testFalse()
-//    {
-//        $user = new User();
-//        $this->assertFalse($user->returnFalse());
-//        return 1;
-//    }
+    public function testFalse()
+    {
+        $user = new User();
+        $this->assertFalse($user->returnFalse());
+        return 1;
+    }
 }
