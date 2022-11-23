@@ -15,4 +15,4 @@ jobs:
           project-token: ${{ secrets.CODACY_PROJECT_TOKEN }}
           # or
           # api-token: ${{ secrets.CODACY_API_TOKEN }}
-          coverage-reports: samplePHPProject/sandbox@UserTestA_0.xml, samplePHPProject/sandbox@UserTestB_50.xml
+          coverage-reports: samplePHPProject/sandbox@UserTestA_0.xml, samplePHPProject/sandbox@UserTestB_0.xml
