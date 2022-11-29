@@ -10,9 +10,6 @@
 
 FROM alpine:latest
 
-RUN apk update
-RUN apk add curl
-
 WORKDIR /Users/nicklem/git/sandbox
 COPY . .
 
