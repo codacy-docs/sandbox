@@ -1,6 +1,12 @@
 ### INSTRUCTIONS
-# Build with `docker build -t test-upload .`
-# Run with `docker run --env CODACY_PROJECT_TOKEN=token test-upload`
+
+# Update WORKDIR below with the path to your project
+# Navigate to this file's directory
+#     cd /path/to/directory/containing/this/file
+# Build:
+#     docker build -t test-upload .
+# Set CODACY_PROJECT_TOKEN to match your project's token and run:
+#     docker run --env CODACY_PROJECT_TOKEN=token test-upload
 
 FROM alpine:latest
 
