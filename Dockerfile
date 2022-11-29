@@ -1,7 +1,7 @@
 ### INSTRUCTIONS
 
-# Update WORKDIR below with the path to your project
-# Navigate to this file's directory
+# Update WORKDIR below with the path to the directory containing this file.
+# Navigate to this file's directory:
 #     cd /path/to/directory/containing/this/file
 # Build:
 #     docker build -t test-upload .
