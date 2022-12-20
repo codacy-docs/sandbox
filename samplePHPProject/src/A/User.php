@@ -13,4 +13,9 @@ class User
     {
         return false;
     }
+
+    public function anotherOne()
+    {
+        return false;
+    }
 }
