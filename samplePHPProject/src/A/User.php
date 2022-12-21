@@ -14,7 +14,7 @@ class User
         return false;
     }
 
-    public function anotherOne()
+    public function someEdit()
     {
         return false;
     }
