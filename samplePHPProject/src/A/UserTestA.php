@@ -8,17 +8,24 @@ use App\A\User as UserA;
 
 class UserTestA extends TestCase
 {
-//    public function testTrue()
-//    {
-//        $user = new UserA();
-//        $this->assertTrue($user->returnTrue());
-//        return 1;
-//    }
+    public function testTrue()
+    {
+        $user = new UserA();
+        $this->assertTrue($user->returnTrue());
+        return 1;
+    }
 
 //    public function testFalse()
 //    {
 //        $user = new UserA();
 //        $this->assertFalse($user->returnFalse());
+//        return 1;
+//    }
+
+//    public function testAnotherOne()
+//    {
+//        $user = new UserA();
+//        $this->assertFalse($user->anotherOne());
 //        return 1;
 //    }
 }
