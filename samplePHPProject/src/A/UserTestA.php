@@ -15,12 +15,12 @@ class UserTestA extends TestCase
         return 1;
     }
 
-    public function testTrueAgain()
-    {
-        $user = new UserA();
-        $this->assertTrue($user->returnTrue());
-        return 1;
-    }
+//    public function testTrueAgain()
+//    {
+//        $user = new UserA();
+//        $this->assertTrue($user->returnTrue());
+//        return 1;
+//    }
 
 //    public function testFalse()
 //    {
