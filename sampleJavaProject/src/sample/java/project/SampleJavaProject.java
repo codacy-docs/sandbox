@@ -56,6 +56,11 @@ public class SampleJavaProject implements Runnable {
         sjp.run();
     }
 
+    public test() {
+        System.out.printf("Hello, %s!%n", name);
+        return this.name;
+    }
+
     /**
      * Print the "Hello, world!" string.
      */
