@@ -110,4 +110,8 @@ public class SampleJavaProject implements Runnable {
     public getHelp() {
         return this.help;
     }
+
+    void triggerSecurity() {
+        SecretKeySpec secretKeySpec = new SecretKeySpec("my secret here".getBytes(), "AES");
+    }
 }
